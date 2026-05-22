@@ -8,7 +8,7 @@ description: My MAE 3780 Mechatronics final project report.
 # Mechatronics Final Report
 
 <iframe
-  src="/assets/pdf/mechatronics-report.pdf"
+  src="/sp26-portfolio-AaronC/assets/pdf/mechatronics-report.pdf"
   width="100%"
   height="800px"
   style="border: none;">
