@@ -1,2 +1,9 @@
-## Homework PDF
-[View PDF](assets/Problem_Set_1_submission.pdf)
+---
+layout: project
+title: Mechatronics Final Report
+description: Research/Project
+technologies: Arduino
+image: /assets/images/radio-machine-cad.jpg
+---
+
+![Shaded rendering of earlier version]({{ "/assets/images/UA_fiber-optic_FPV_drone_02.webp" | relative_url }}){: .inline-image-r style="width: 200px"}
